@@ -1,14 +1,22 @@
-# STATIONERY STORE MANAGEMENT SOFTWARE
+<h1>
+  Stationery Store Management Software 🏬
+</h1>
+
+
+> Windows-based stationery store management software with decentralized features for
+employees and managers.
+
+## Cloning the repository
 ```
 $ git clone https://github.com/tonebook32003/QuanLyVanPhongPham
 ```
-### Employee Functions:
+### Employee Functions 👷🏻‍♂️:
 - Search products and check inventory to assist customers.
 - Create and print invoices for purchases.
 - Register customer accounts for loyalty programs.
 - Generate reports on sales, inventory, and other key metrics.
 
-### Administrator Functions:
+### Administrator Functions 💻:
 - Import products from suppliers to keep inventory updated.
 - Manage revenue by tracking sales, expenses, and financial performance.
 - Oversee employee roles and monitor performance.
